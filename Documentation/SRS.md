@@ -34,7 +34,7 @@
 Графический интерфейс проекта представлен с помощью мокапов:<a name="2.4"></a>
 * [Окна контроля заказов](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/OrdersMenu.jpg)  
 
-![Gameplay](https://github.com/cherrypie1/SHOOTER/blob/main/documentation/mockups/Gameplay.jpg)
+![Orders Menu](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/OrdersMenu.jpg)
 * [окна выбора оружия](https://github.com/cherrypie1/SHOOTER/blob/main/documentation/mockups/Weapons.jpg)
 
 ![Weapons](https://github.com/cherrypie1/SHOOTER/blob/main/documentation/mockups/Weapons.jpg)

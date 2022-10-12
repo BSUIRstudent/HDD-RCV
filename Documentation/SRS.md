@@ -32,7 +32,7 @@
 Рабочая область пользователя представлена в виде окна контроля закзаов. Присутсвтуют возможности добавления/реадктирования/удаления заказов, просмотра списка курьеров, рассчета курьеров в соответствии с затраченными ими ресурсами, закрепления заказов за курьерами и подтверждение закрытия заказов.
 
 Графический интерфейс проекта представлен с помощью мокапов:<a name="2.4"></a>
-* [игрового процесса](https://github.com/cherrypie1/SHOOTER/blob/main/documentation/mockups/Gameplay.jpg)  
+* [Окна контроля заказов](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/OrdersMenu.jpg)  
 
 ![Gameplay](https://github.com/cherrypie1/SHOOTER/blob/main/documentation/mockups/Gameplay.jpg)
 * [окна выбора оружия](https://github.com/cherrypie1/SHOOTER/blob/main/documentation/mockups/Weapons.jpg)

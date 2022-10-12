@@ -35,12 +35,24 @@
 * [Окна контроля заказов](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/OrdersMenu.jpg)  
 
 ![Orders Menu](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/OrdersMenu.jpg)
-* [окна выбора оружия](https://github.com/cherrypie1/SHOOTER/blob/main/documentation/mockups/Weapons.jpg)
+* [Окна добавления заказа]()
 
-![Weapons](https://github.com/cherrypie1/SHOOTER/blob/main/documentation/mockups/Weapons.jpg)
-* [окна настроек](https://github.com/cherrypie1/SHOOTER/blob/main/documentation/mockups/Settings.jpg)
+![Add Order]()
+* [Окна редактирования заказа]()
 
-![Settings](https://github.com/cherrypie1/SHOOTER/blob/main/documentation/mockups/Settings.jpg)
+![Edit order]()
+* [Окна списка курьеров]()
+
+![Courrier List]()
+
+* [Окна информации о доставке заказа]()
+
+![Delivery Info]()
+
+* [Окна рассчета курьеров]()
+
+![Courrier Pay]()
+
 #### 2.3. Характеристики пользователей <a name="2.3"></a>
 Целевая аудиория:
 приложение предназначено для разных возрастных групп пользователей.

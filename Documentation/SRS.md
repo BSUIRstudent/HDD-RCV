@@ -50,9 +50,9 @@
 
 ![Delivery Info]()
 
-* [Окна рассчета курьеров]()
+* [Окна рассчета курьеров](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/CourierPay.jpg)
 
-![Courrier Pay]()
+![Courrier Pay](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/CourierPay.jpg)
 
 #### 2.3. Характеристики пользователей <a name="2.3"></a>
 Целевая аудиория:

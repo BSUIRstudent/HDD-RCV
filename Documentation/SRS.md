@@ -36,9 +36,9 @@
 * [Окна контроля заказов](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/OrdersMenu.jpg)  
 
 ![Orders Menu](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/OrdersMenu.jpg)
-* [Окна добавления заказа]()
+* [Окна добавления заказа](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/AddOrder.jpg)
 
-![Add Order]()
+![Add Order](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/AddOrder.jpg)
 * [Окна редактирования заказа](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/EditOrder.jpg)
 
 ![Edit order](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/EditOrder.jpg)

@@ -39,9 +39,9 @@
 * [Окна добавления заказа]()
 
 ![Add Order]()
-* [Окна редактирования заказа]()
+* [Окна редактирования заказа](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/EditOrder.jpg)
 
-![Edit order]()
+![Edit order](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/EditOrder.jpg)
 * [Окна списка курьеров]()
 
 ![Courrier List]()

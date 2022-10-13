@@ -46,9 +46,9 @@
 
 ![Courrier List]()
 
-* [Окна информации о доставке заказа]()
+* [Окна информации о доставке заказа](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/OrderInfo.jpg)
 
-![Delivery Info]()
+![Delivery Info](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/OrderInfo.jpg)
 
 * [Окна рассчета курьеров](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/CourierPay.jpg)
 

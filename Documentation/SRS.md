@@ -42,9 +42,9 @@
 * [Окна редактирования заказа](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/EditOrder.jpg)
 
 ![Edit order](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/EditOrder.jpg)
-* [Окна списка курьеров]()
+* [Окна списка курьеров](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/CourrierList.jpg)
 
-![Courrier List]()
+![Courrier List](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/CourrierList.jpg)
 
 * [Окна информации о доставке заказа](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/OrderInfo.jpg)
 

@@ -1,2 +1,2 @@
-# 365Delivery
-#Delivery application to simplify communication between couriers and the order operator.
+# HDD-RCV
+#It's utility witch recover hard disk drive from bad blocks!

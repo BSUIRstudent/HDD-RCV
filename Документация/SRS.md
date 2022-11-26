@@ -36,22 +36,22 @@
 
 Интерфейс проекта представлен с помощью мокапов:<a name="2.4"></a>
 
-* [Блок приветствия](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/OrderInfo.jpg)
+* [Блок приветствия](https://github.com/mathews3s/HDD-RCV/blob/main/mockups/HelloBlock.png)
 
-![Hello](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/OrderInfo.jpg)
+![Hello](https://github.com/mathews3s/HDD-RCV/blob/main/mockups/HelloBlock.png)
 
-* [Блок предоставления информации о носителе](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/OrdersMenu.jpg)  
+* [Блок предоставления информации о носителе](https://github.com/mathews3s/HDD-RCV/blob/main/mockups/InfoBlock.png)  
 
-![Info](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/OrdersMenu.jpg)
-* [Блок мониторинга проверки носителя](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/AddOrder.jpg)
+![Info](https://github.com/mathews3s/HDD-RCV/blob/main/mockups/InfoBlock.png)
+* [Блок мониторинга проверки носителя](https://github.com/mathews3s/HDD-RCV/blob/main/mockups/CheckBlock.png)
 
-![Check](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/AddOrder.jpg)
-* [Блок промежуточных результатов](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/EditOrder.jpg)
+![Check](https://github.com/mathews3s/HDD-RCV/blob/main/mockups/CheckBlock.png)
+* [Блок промежуточных результатов](https://github.com/mathews3s/HDD-RCV/blob/main/mockups/StopBlock.png)
 
-![Stop](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/EditOrder.jpg)
-* [Блок результатов проверки/восстановления](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/CourrierList.jpg)
+![Stop](https://github.com/mathews3s/HDD-RCV/blob/main/mockups/StopBlock.png)
+* [Блок результатов проверки/восстановления](https://github.com/mathews3s/HDD-RCV/blob/main/mockups/FinishBlock.png)
 
-![Finish](https://github.com/mathews3s/365Delivery/blob/main/Documentation/Project%20mockups/CourrierList.jpg)
+![Finish](https://github.com/mathews3s/HDD-RCV/blob/main/mockups/FinishBlock.png)
 
 #### 2.3. Характеристики пользователей <a name="2.3"></a>
 Целевая аудиория:

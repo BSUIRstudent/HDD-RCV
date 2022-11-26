@@ -1,2 +1,2 @@
 # HDD-RCV
-#It's utility witch recover hard disk drive from bad blocks!
+#It's utility witch recover hard disk drive from bad blocks!!

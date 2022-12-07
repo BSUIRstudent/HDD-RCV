@@ -77,7 +77,7 @@ Use Case диаграммы утилиты "HDD-RCV":
 
 # Диаграммы последовательностей
 
-![Sequence vpd](https://user-images.githubusercontent.com/68506750/203759821-1f36aae1-90fb-4d01-b588-74d6f66b28f1.jpg)
+![Sequence vpd](https://github.com/mathews3s/HDD-RCV/blob/main/Документация/SequenceDiagram/SequenceDiagram.png)
 
 # Диаграммы состояний
 

@@ -73,7 +73,7 @@ Use Case диаграммы утилиты "HDD-RCV":
 
 # Диаграммы активностей
 
-![activityvpd vpd](https://user-images.githubusercontent.com/68506750/203758042-6a535b62-57a5-4810-a9a5-0845e737eb73.jpg)
+![activityvpd vpd](https://github.com/mathews3s/HDD-RCV/blob/main/Документация/ActivityDiagram/ActivityDiagram.png)
 
 # Диаграммы последовательностей
 

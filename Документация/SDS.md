@@ -81,7 +81,7 @@ Use Case диаграммы утилиты "HDD-RCV":
 
 # Диаграммы состояний
 
-![state vpd](https://user-images.githubusercontent.com/68506750/203758654-86e1995f-23cf-468e-96fe-70dbedfa0467.jpg)
+![state vpd](https://github.com/mathews3s/HDD-RCV/blob/main/Документация/StateDiagram/StateDiagram.png)
 
 # Диаграмма классов
 

@@ -89,4 +89,4 @@ Use Case диаграммы утилиты "HDD-RCV":
 
 # Диаграмма компонентов и развертывания
 
-![Components vpd](https://user-images.githubusercontent.com/68506750/203618941-fe10814e-f342-4b14-a4cb-2b9b29123988.jpg)
+![Components vpd](https://github.com/mathews3s/HDD-RCV/blob/main/Документация/DeploymentDiagram/DeploymentDiagram.png)

@@ -85,7 +85,7 @@ Use Case диаграммы утилиты "HDD-RCV":
 
 # Диаграмма классов
 
-![image](https://user-images.githubusercontent.com/68506750/203620951-e569945c-bac2-4664-8c40-03aef58b6d51.png)
+![image](https://github.com/mathews3s/HDD-RCV/tree/main/Документация/ClassDiagram)
 
 # Диаграмма компонентов и развертывания
 

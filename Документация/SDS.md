@@ -48,7 +48,7 @@
 
 ## 2 Варианты использования
 
-Use Case диаграммы приложения "Avia tickets":
+Use Case диаграммы утилиты "HDD-RCV":
 
 ![useCase vpd (1)](https://github.com/mathews3s/HDD-RCV/blob/main/Документация/UseCases/UseCases.png)
 

@@ -102,6 +102,21 @@ Use Case диаграммы утилиты "HDD-RCV":
 
 ![image](https://github.com/mathews3s/HDD-RCV/blob/main/Документация/ClassDiagram/ClassDiagram.png)
 
+1. Класс Device_Master
+Содержит основную информацию, присущую носителю: дескриптор 
+устройства, размер устройства, количество секторов, количество цилиндров, 
+количество дорожек на цилиндр, количество секторов на дорожку, количество 
+байт на сектор. Содержит следующие поля:
+• Device – дескриптор устройства
+• Device_Size – размер устройства
+• Bytes_Per_Sector_Count – количество байт на сектор
+• Cylinders_Count – количество цилиндров
+• Tracks_Per_Cylinder_Count – количество дорожек на цилиндр
+• Sectors_Per_Track_Count – количество секторов на дорожку
+• Sectors_Count – количество секторов
+• Device_Diagnostic – класс, содержащий поля и методы для 
+диагностики отклика секторов диска.
+
 # Диаграмма компонентов и развертывания
 
 ![Components vpd](https://github.com/mathews3s/HDD-RCV/blob/main/Документация/DeploymentDiagram/DeploymentDiagram.png)
